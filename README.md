@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ferdous Anwar Anik</h1>
-<h3 align="center">ata Science Enthusiast | Passionate about insights & innovation</h3>
+<h3 align="center">Driven by Data, Grounded in Math | Analytical Thinker | Passionate about Insights & Innovation</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
